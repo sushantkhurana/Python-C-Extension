@@ -1,0 +1,20 @@
+Created an maintained by:
+Sushant Khurana
+(www.sukh.us)
+
+For questions / enhancements write on the issues list or email 
+
+sushant@sukh.us
+
+
+MakeFile would be available soon. Build to a shared object to access the c library as a python 
+package.
+
+usage:
+
+> import helloworld
+
+>helloworld.printhelloworld()
+
+
+
